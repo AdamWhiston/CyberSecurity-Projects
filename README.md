@@ -1,7 +1,7 @@
 # Cyber Security Projects
 Cyber Security things I have done and am working on!
 
-<h2>👨‍💻 Ethical Hacking Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Identification, Authentication, and Authorization (Tools used)</b>
 
