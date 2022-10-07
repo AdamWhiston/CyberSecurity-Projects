@@ -3,20 +3,13 @@ Things I have done and am working on!
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 4
 ​
-5
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-6
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-7
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-8
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-9
-- <b>PowerShell</b>
-10
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-11
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+5 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+6 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+7 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+8 - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+9 - <b>PowerShell</b>
+10 - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+11 - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 12
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 13
