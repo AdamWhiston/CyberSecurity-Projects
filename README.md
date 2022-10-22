@@ -3,7 +3,7 @@ Cyber Security things I have done and am working on!
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Identification, Authentication, and Authorization (Tools used)</b>
+- <b>Identification, Authentication, and Authorization (Powershell, Windows Administrative Tools, Group Policy Management, Ubuntu, Windows Admin Command Center)</b>
 
   - [EC-Council Virtual Labs](https://github.com/joshmadakor1/Algorithms-Practice)
 
