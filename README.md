@@ -5,11 +5,11 @@ Cyber Security things I have done and am working on!
 
 - <b>Identification, Authentication, and Authorization (Powershell, Windows Administrative Tools, Group Policy Management, Ubuntu, Windows Admin Command Center)</b>
 
-  - [EC-Council Virtual Labs - Manageing objectes in Active Directory using GPO (Group Policy Object)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [EC-Council Virtual Labs - Managing objects in Active Directory using GPO (Group Policy Object)](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>Network Security Controls - Administrative Controls (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Network Security Controls - Administrative Controls (GPMC (Group Policy Management Console), Active Directory, )</b>
 
-  - [EC-Council Virtual Labs](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [EC-Council Virtual Labs - Creating a GPO from GPMC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 - <b>Mobile Device Security - Technical Controls (Tools used)</b>
 
