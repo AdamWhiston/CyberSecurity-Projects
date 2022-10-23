@@ -22,7 +22,7 @@ Cyber Security things I have done and am working on! Currently editing this page
 
 - <b>Wireless Network Security (Docker, Ubuntu, AWS, AWS IAM, AWS Storage)</b>
   - [EC-Council Virtual Labs - ](https://github.com/joshmadakor1/EncrypterPOC)
-  - 
+ 
 - <b>Mobile Device Security (Tools Used)</b>
 
   - [EC-Council Virtual Labs](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
