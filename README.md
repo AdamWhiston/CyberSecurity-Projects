@@ -21,8 +21,7 @@ Cyber Security things I have done and am working on! Currently editing this page
 
 
 - <b>Wireless Network Security (Docker, Ubuntu, AWS, AWS IAM, AWS Storage)</b>
-
-  - [EC-Council Virtual Labs - Auditing the security of default docker installation, implementing AWS identity and access management, ans securing Amazon Web Services Storage](https://github.com/joshmadakor1/EncrypterPOC)
+  - [EC-Council Virtual Labs - ](https://github.com/joshmadakor1/EncrypterPOC)
   - 
 - <b>Mobile Device Security (Tools Used)</b>
 
