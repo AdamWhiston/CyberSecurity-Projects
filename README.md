@@ -11,7 +11,7 @@ Cyber Security things I have done and am working on! Currently editing this page
 
   - [EC-Council Virtual Labs - Creating a GPO from GPMC](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
-- <b>Mobile Device Security - Technical Controls (pfSense, Ubuntu, iptables, Windows Firewall, Wazuh HIDS, Suricata, HoneyBOT, SoftEther)</b>
+- <b>Network Security Controls - Technical Controls (pfSense, Ubuntu, iptables, Windows Firewall, Wazuh HIDS, Suricata, HoneyBOT, SoftEther)</b>
 
   - [EC-Council Virtual Labs - Implimenting host based firewall protectionn functionality, blocking unwanted website access, blocling insecure ports, implimenting host based IDS functionality, implimenting network based IDS, detecting malicious network traffic, and establishing VPN connection. ](https://github.com/joshmadakor1/Sentinel-Lab)
 
