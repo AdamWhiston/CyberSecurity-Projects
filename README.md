@@ -15,9 +15,9 @@ Cyber Security things I have done and am working on! Currently editing this page
 
   - [EC-Council Virtual Labs - Implimenting host based firewall protectionn functionality, blocking unwanted website access, blocling insecure ports, implimenting host based IDS functionality, implimenting network based IDS, detecting malicious network traffic, and establishing VPN connection. ](https://github.com/joshmadakor1/Sentinel-Lab)
 
-- <b>Virtualization and Cloud Computing (Tools Used)</b>
+- <b>Virtualization and Cloud Computing (Docker, Ubuntu, AWS, AWS IAM, AWS Storage)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/joshmadakor1/EncrypterPOC)
+  - [EC-Council Virtual Labs - Auditing the security of default docker installation, implementing AWS identity and access management, ans securing Amazon Web Services Storage](https://github.com/joshmadakor1/EncrypterPOC)
 
 - <b>Mobile Device Security (Tools Used)</b>
 
