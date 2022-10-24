@@ -23,13 +23,13 @@ Cyber Security things I have done and am working on! Currently editing this page
 - <b>Wireless Network Security (Docker, Ubuntu, AWS, AWS IAM, AWS Storage)</b>
   - [EC-Council Virtual Labs - ](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
  
-- <b>Mobile Device Security (Tools Used)</b>
+- <b>Mobile Device Security (Linksys)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Configuring security on a wireless router](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
-- <b>IoT Device Security (Tools Used)</b>
+- <b>IoT Device Security (Bevywise MQTT Broker, Wireshark)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Securing IoT device communication using TLS/SSL](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 ​
 - <b>Cryptography and PKI (Tools Used)</b>
 
