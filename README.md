@@ -19,13 +19,12 @@ Cyber Security things I have done and am working on! Currently editing this page
 
   - [EC-Council Virtual Labs - Auditing the security of default docker installation, implementing AWS identity and access management, ans securing Amazon Web Services Storage](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
-
-- <b>Wireless Network Security (Docker, Ubuntu, AWS, AWS IAM, AWS Storage)</b>
-  - [EC-Council Virtual Labs - ](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
- 
-- <b>Mobile Device Security (Linksys)</b>
-
+- <b>Wireless Network Security (Linksys)</b>
   - [EC-Council Virtual Labs - Configuring security on a wireless router](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+ 
+- <b>Mobile Device Security (Miradore MDM Solution, Andriod)</b>
+
+  - [EC-Council Virtual Labs - Implementing enterprise mobile security](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
 - <b>IoT Device Security (Bevywise MQTT Broker, Wireshark)</b>
 
@@ -39,6 +38,6 @@ Cyber Security things I have done and am working on! Currently editing this page
 
   - [EC-Council Virtual Labs - Preforming disk encryption, file recovery, and backing up/ restoring data in windows ](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
-- <b>Network Traffic Monitoring (Tools Used)</b>
+- <b>Network Traffic Monitoring (Wireshark, Linux, tcpdump)</b>
 
-  - [EC-Council Virtual Labs - ](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Capturing network traffic, applying filters, and analyzing/examining various network packet headers in Linux](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
