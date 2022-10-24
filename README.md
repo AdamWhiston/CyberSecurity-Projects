@@ -31,14 +31,14 @@ Cyber Security things I have done and am working on! Currently editing this page
 
   - [EC-Council Virtual Labs - Securing IoT device communication using TLS/SSL](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 ​
-- <b>Cryptography and PKI (Tools Used)</b>
+- <b>Cryptography and PKI (HashCalc, HashMyFiles, IIS Manager)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Calculating one-way hashes, calculating MD5 hashes, and creating a self-signed certificate](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
-- <b>Data Security (Tools Used)</b>
+- <b>Data Security (VeraCrypt, EaseUS Data Recovery Wizard, Windows Server Manager)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Preforming disk encryption, file recovery, and backing up/ restoring data in windows ](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
 - <b>Network Traffic Monitoring (Tools Used)</b>
 
-  - [EC-Council Virtual Labs](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - ](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
