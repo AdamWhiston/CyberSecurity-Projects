@@ -13,7 +13,7 @@ Cyber Security things I have done and am working on! Currently editing this page
 
 - <b>Network Security Controls - Technical Controls (pfSense, Ubuntu, iptables, Windows Firewall, Wazuh HIDS, Suricata, HoneyBOT, SoftEther)</b>
 
-  - [EC-Council Virtual Labs - Implimenting host based firewall protectionn functionality, blocking unwanted website access, blocling insecure ports, implimenting host based IDS functionality, implimenting network based IDS, detecting malicious network traffic, and establishing VPN connection. ](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Implimenting host based firewall protection functionality, blocking unwanted website access, blocling insecure ports, implimenting host based IDS functionality, implimenting network based IDS, detecting malicious network traffic, and establishing VPN connection. ](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
 - <b>Virtualization and Cloud Computing (Docker, Ubuntu, AWS, AWS IAM, AWS Storage)</b>
 
@@ -36,7 +36,7 @@ Cyber Security things I have done and am working on! Currently editing this page
 
 - <b>Data Security (VeraCrypt, EaseUS Data Recovery Wizard, Windows Server Manager)</b>
 
-  - [EC-Council Virtual Labs - Preforming disk encryption, file recovery, and backing up/ restoring data in windows ](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
+  - [EC-Council Virtual Labs - Performing disk encryption, file recovery, and backing up/ restoring data in windows ](https://github.com/AdamWhiston/Links-currently-being-updated-/tree/main)
 
 - <b>Network Traffic Monitoring (Wireshark, Linux, tcpdump)</b>
 
